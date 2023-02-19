@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/AddingtonCF-Bold.otf",
+      "sha1": "380bb6ae6e0378796c0c810040a82646f6d51644"
+    },
+    {
+      "path": "src/assets/fonts/AddingtonCF-BoldItalic.otf",
+      "sha1": "e62b371ffd0f496c5f26d85c26ec03eda2e89f0f"
+    },
+    {
+      "path": "src/assets/fonts/AddingtonCF-DemiBold.otf",
+      "sha1": "1d8535d7fe580f6a603b780a9020e5977ac9442a"
+    },
+    {
+      "path": "src/assets/fonts/AddingtonCF-DemiBoldItalic.otf",
+      "sha1": "5e3bbef2b2222bc1508694d92723e6b855b774bd"
+    },
+    {
+      "path": "src/assets/fonts/AddingtonCF-ExtraBold.otf",
+      "sha1": "3bae24244ec2d7d4c7bbe5285c973c96a0e1957a"
+    },
+    {
+      "path": "src/assets/fonts/AddingtonCF-ExtraBoldItalic.otf",
+      "sha1": "1cc847ed460b85763bcb9f8590eca9c712c1d684"
+    },
+    {
+      "path": "src/assets/fonts/AddingtonCF-Light.otf",
+      "sha1": "320e2a54af17ab22cec4dbf7958d259d38d055fd"
+    },
+    {
+      "path": "src/assets/fonts/AddingtonCF-LightItalic.otf",
+      "sha1": "dbcf0823fa52e109b84842ccf489de7bf1252158"
+    },
+    {
+      "path": "src/assets/fonts/AddingtonCF-Medium.otf",
+      "sha1": "c398b1a77a5e8d57e141c56e83e05b7fdfd6f857"
+    },
+    {
+      "path": "src/assets/fonts/AddingtonCF-MediumItalic.otf",
+      "sha1": "d8b0bdf35f98b0cbfc8103edc795fc9767f1180a"
+    },
+    {
+      "path": "src/assets/fonts/AddingtonCF-Regular.otf",
+      "sha1": "8b7c483f7d946cbb55b9023466c644560e95adfd"
+    },
+    {
+      "path": "src/assets/fonts/AddingtonCF-RegularItalic.otf",
+      "sha1": "7ee8efb1001d790699755751457a98985e6fa073"
+    },
+    {
+      "path": "src/assets/fonts/AddingtonCF-Thin.otf",
+      "sha1": "03b78bb7002eca1e3890833d5ca0456067e919a5"
+    },
+    {
+      "path": "src/assets/fonts/AddingtonCF-ThinItalic.otf",
+      "sha1": "beb6e18a83ab44babc25e7c8394bf3d8ea5c733b"
+    }
+  ]
+}

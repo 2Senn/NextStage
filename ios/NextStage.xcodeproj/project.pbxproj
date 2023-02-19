@@ -14,6 +14,20 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-NextStage-NextStageTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-NextStage-NextStageTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		549107AEFD574102A730EDDD /* AddingtonCF-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = CBB3D86F8E5841E6B66627E7 /* AddingtonCF-Bold.otf */; };
+		D71C8EA6DD534180950609AE /* AddingtonCF-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F2B41B9EACA843DCBEDD0D55 /* AddingtonCF-BoldItalic.otf */; };
+		A83421C3A5954FFCAE71E331 /* AddingtonCF-DemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6ADCA8E266C4EC695EE09B3 /* AddingtonCF-DemiBold.otf */; };
+		F5D4BCB255A044C8A118905C /* AddingtonCF-DemiBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 80126175D23C41849FE07E0F /* AddingtonCF-DemiBoldItalic.otf */; };
+		9895099C084F488B84AB32C1 /* AddingtonCF-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = DB199E83368648C588E1CAA4 /* AddingtonCF-ExtraBold.otf */; };
+		1145D49C429E4BC08C41DDAF /* AddingtonCF-ExtraBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 50A830AD51B2404297F95BFC /* AddingtonCF-ExtraBoldItalic.otf */; };
+		C4294436C84A4A65939E29E8 /* AddingtonCF-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = EBAA0035A84D42E4BDE2E5FE /* AddingtonCF-Light.otf */; };
+		1F474B5EC08D4964B7A019F1 /* AddingtonCF-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = D476AD9D5D284464BC0E0F96 /* AddingtonCF-LightItalic.otf */; };
+		4BE3E82CF86E4F82BB8C685E /* AddingtonCF-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = A52C4EF0A5274C3097AD9926 /* AddingtonCF-Medium.otf */; };
+		D1ADDB669F9648F9B0E30005 /* AddingtonCF-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 30FADD3758EE484892F7B312 /* AddingtonCF-MediumItalic.otf */; };
+		DDA9F183FA0F47C1BCAB99C8 /* AddingtonCF-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 323D72BAFA514E6693E5FEE2 /* AddingtonCF-Regular.otf */; };
+		6A0B21573D0A4CACAB2C2AE4 /* AddingtonCF-RegularItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = D0EC4D1FF4AB4DFAB43AC255 /* AddingtonCF-RegularItalic.otf */; };
+		B0486BDB83A9466C84B33ED2 /* AddingtonCF-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = CBCF63E8856546A8B0AFC7DF /* AddingtonCF-Thin.otf */; };
+		2AD66467AD8B4FB5927323BB /* AddingtonCF-ThinItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 89EFBFF2818D47659B2A0185 /* AddingtonCF-ThinItalic.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +58,20 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = NextStage/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-NextStage-NextStageTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NextStage-NextStageTests.release.xcconfig"; path = "Target Support Files/Pods-NextStage-NextStageTests/Pods-NextStage-NextStageTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		CBB3D86F8E5841E6B66627E7 /* AddingtonCF-Bold.otf */ = {isa = PBXFileReference; name = "AddingtonCF-Bold.otf"; path = "../src/assets/fonts/AddingtonCF-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F2B41B9EACA843DCBEDD0D55 /* AddingtonCF-BoldItalic.otf */ = {isa = PBXFileReference; name = "AddingtonCF-BoldItalic.otf"; path = "../src/assets/fonts/AddingtonCF-BoldItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F6ADCA8E266C4EC695EE09B3 /* AddingtonCF-DemiBold.otf */ = {isa = PBXFileReference; name = "AddingtonCF-DemiBold.otf"; path = "../src/assets/fonts/AddingtonCF-DemiBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		80126175D23C41849FE07E0F /* AddingtonCF-DemiBoldItalic.otf */ = {isa = PBXFileReference; name = "AddingtonCF-DemiBoldItalic.otf"; path = "../src/assets/fonts/AddingtonCF-DemiBoldItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DB199E83368648C588E1CAA4 /* AddingtonCF-ExtraBold.otf */ = {isa = PBXFileReference; name = "AddingtonCF-ExtraBold.otf"; path = "../src/assets/fonts/AddingtonCF-ExtraBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		50A830AD51B2404297F95BFC /* AddingtonCF-ExtraBoldItalic.otf */ = {isa = PBXFileReference; name = "AddingtonCF-ExtraBoldItalic.otf"; path = "../src/assets/fonts/AddingtonCF-ExtraBoldItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EBAA0035A84D42E4BDE2E5FE /* AddingtonCF-Light.otf */ = {isa = PBXFileReference; name = "AddingtonCF-Light.otf"; path = "../src/assets/fonts/AddingtonCF-Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D476AD9D5D284464BC0E0F96 /* AddingtonCF-LightItalic.otf */ = {isa = PBXFileReference; name = "AddingtonCF-LightItalic.otf"; path = "../src/assets/fonts/AddingtonCF-LightItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A52C4EF0A5274C3097AD9926 /* AddingtonCF-Medium.otf */ = {isa = PBXFileReference; name = "AddingtonCF-Medium.otf"; path = "../src/assets/fonts/AddingtonCF-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		30FADD3758EE484892F7B312 /* AddingtonCF-MediumItalic.otf */ = {isa = PBXFileReference; name = "AddingtonCF-MediumItalic.otf"; path = "../src/assets/fonts/AddingtonCF-MediumItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		323D72BAFA514E6693E5FEE2 /* AddingtonCF-Regular.otf */ = {isa = PBXFileReference; name = "AddingtonCF-Regular.otf"; path = "../src/assets/fonts/AddingtonCF-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D0EC4D1FF4AB4DFAB43AC255 /* AddingtonCF-RegularItalic.otf */ = {isa = PBXFileReference; name = "AddingtonCF-RegularItalic.otf"; path = "../src/assets/fonts/AddingtonCF-RegularItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CBCF63E8856546A8B0AFC7DF /* AddingtonCF-Thin.otf */ = {isa = PBXFileReference; name = "AddingtonCF-Thin.otf"; path = "../src/assets/fonts/AddingtonCF-Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		89EFBFF2818D47659B2A0185 /* AddingtonCF-ThinItalic.otf */ = {isa = PBXFileReference; name = "AddingtonCF-ThinItalic.otf"; path = "../src/assets/fonts/AddingtonCF-ThinItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +150,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				9B94A7D1534041689E6475C1 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +176,28 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		9B94A7D1534041689E6475C1 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				CBB3D86F8E5841E6B66627E7 /* AddingtonCF-Bold.otf */,
+				F2B41B9EACA843DCBEDD0D55 /* AddingtonCF-BoldItalic.otf */,
+				F6ADCA8E266C4EC695EE09B3 /* AddingtonCF-DemiBold.otf */,
+				80126175D23C41849FE07E0F /* AddingtonCF-DemiBoldItalic.otf */,
+				DB199E83368648C588E1CAA4 /* AddingtonCF-ExtraBold.otf */,
+				50A830AD51B2404297F95BFC /* AddingtonCF-ExtraBoldItalic.otf */,
+				EBAA0035A84D42E4BDE2E5FE /* AddingtonCF-Light.otf */,
+				D476AD9D5D284464BC0E0F96 /* AddingtonCF-LightItalic.otf */,
+				A52C4EF0A5274C3097AD9926 /* AddingtonCF-Medium.otf */,
+				30FADD3758EE484892F7B312 /* AddingtonCF-MediumItalic.otf */,
+				323D72BAFA514E6693E5FEE2 /* AddingtonCF-Regular.otf */,
+				D0EC4D1FF4AB4DFAB43AC255 /* AddingtonCF-RegularItalic.otf */,
+				CBCF63E8856546A8B0AFC7DF /* AddingtonCF-Thin.otf */,
+				89EFBFF2818D47659B2A0185 /* AddingtonCF-ThinItalic.otf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -244,6 +295,20 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				549107AEFD574102A730EDDD /* AddingtonCF-Bold.otf in Resources */,
+				D71C8EA6DD534180950609AE /* AddingtonCF-BoldItalic.otf in Resources */,
+				A83421C3A5954FFCAE71E331 /* AddingtonCF-DemiBold.otf in Resources */,
+				F5D4BCB255A044C8A118905C /* AddingtonCF-DemiBoldItalic.otf in Resources */,
+				9895099C084F488B84AB32C1 /* AddingtonCF-ExtraBold.otf in Resources */,
+				1145D49C429E4BC08C41DDAF /* AddingtonCF-ExtraBoldItalic.otf in Resources */,
+				C4294436C84A4A65939E29E8 /* AddingtonCF-Light.otf in Resources */,
+				1F474B5EC08D4964B7A019F1 /* AddingtonCF-LightItalic.otf in Resources */,
+				4BE3E82CF86E4F82BB8C685E /* AddingtonCF-Medium.otf in Resources */,
+				D1ADDB669F9648F9B0E30005 /* AddingtonCF-MediumItalic.otf in Resources */,
+				DDA9F183FA0F47C1BCAB99C8 /* AddingtonCF-Regular.otf in Resources */,
+				6A0B21573D0A4CACAB2C2AE4 /* AddingtonCF-RegularItalic.otf in Resources */,
+				B0486BDB83A9466C84B33ED2 /* AddingtonCF-Thin.otf in Resources */,
+				2AD66467AD8B4FB5927323BB /* AddingtonCF-ThinItalic.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
